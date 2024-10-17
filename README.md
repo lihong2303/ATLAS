@@ -10,6 +10,12 @@
 </div>
 &nbsp;
 
+<div align="center">
+    <a href="https://arxiv.org/abs/2410.10923" target="_blank">
+    <img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
+</div>
+&nbsp;
+
 <div align="left">
 <img src="./images/teaser-figure.png" width="99%" alt="ATLAS Teaser">
 </div>
@@ -23,7 +29,14 @@ In this paper, we propose an adapter-based two-stage learning paradigm, a multi-
 
 ## Reference
 
-```
-
-
+```bibtex
+@misc{li2024atlasadapterbasedmultimodalcontinual,
+      title={ATLAS: Adapter-Based Multi-Modal Continual Learning with a Two-Stage Learning Strategy}, 
+      author={Hong Li and Zhiquan Tan and Xingyu Li and Weiran Huang},
+      year={2024},
+      eprint={2410.10923},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.10923}, 
+}
 ```
